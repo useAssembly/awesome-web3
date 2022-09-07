@@ -5,6 +5,7 @@ An awesome list that curates the best web3 projects.
 - [Monitoring Tools](#projects)
 - [Raffles Tools](#projects)
 - [White List Tools](#projects)
+- [IPFS](#projects)
 - [Blogs](#projects)
 
 ---
@@ -28,6 +29,13 @@ An awesome list that curates the best web3 projects.
     
 * White List Tools
     * [Premint.xyz](https://www.premint.xyz/) - The web3 allowlist platform
+    
+* IPFS / Pinata Alternative
+    * [NFT Storage](https://nft.storage/) - Free & Recommended
+    * [Pinata Cloud](https://www.pinata.cloud/)
+    * [Crust Network](https://crust.network/) 
+    * [Web3 Storage](https://web3.storage/)
+    * [Dolpin.IO](https://dolpin.io/)
 
 * Blogs / News / Content
     * [NFT Calendar](nftcalendar.io) - News on latest NFT Release & Drops
