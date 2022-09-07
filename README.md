@@ -1,25 +1,33 @@
 # Awesome Web3 Projects
 An awesome list that curates the best web3 projects. 
 
-- [Monitoring Tools](#monitoring-tools)
-    - [Degenmint.xyz](#monitoring-tools)
-    - [NFTScoring](#monitoring-tools)
-- [Raffles Tools](#raffles)
-    - [Superful](#raffles)
-- [White List Tools](#allow-list)
-    - [Premint.xyz](#allow-list)
+- [Rarity Tools](#projects)
+- [Monitoring Tools](#projects)
+- [Raffles Tools](#projects)
+- [White List Tools](#projects)
+- [Blogs](#projects)
 
 ---
 
 ## Projects
 *List of Awesome Web3 Projects*
 
+* Ranking Tools
+    * [Rarity Tools](https://rarity.tools/) - Ranking generative art and collectible NFTs by rarity
+
 * Monitoring Tools
+    * [Icy Tools](https://icy.tools/) - Real-time market insights
     * [Degenmint.xyz](https://degenmint.xyz/) - Live Mint Monitoring
     * [NFT Scoring](https://nftscoring.com/) - NFT Analaysis
+
+* Marketplace Tools
+    * [Genie](https://www.genie.xyz/) - Trade NFTs across marketplaces
+    
 * Raffles Tools
     * [Superful](https://superful.xyz/) - Freemium Raffle Serivce Provider.
+    
 * White List Tools
     * [Premint.xyz](https://www.premint.xyz/) - The web3 allowlist platform
 
-
+* Blogs / News / Content
+    * [NFT Calendar](nftcalendar.io) - News on latest NFT Release & Drops
