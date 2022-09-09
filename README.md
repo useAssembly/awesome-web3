@@ -15,6 +15,7 @@ An awesome list that curates the best web3 projects.
 
 * Ranking Tools
     * [Rarity Tools](https://rarity.tools/) - Ranking generative art and collectible NFTs by rarity
+    * [Meta Sniper](https://metasniper.app/) - NFT SNIPING TOOL with rarity information.
 
 * Monitoring Tools
     * [Icy Tools](https://icy.tools/) - Real-time market insights
