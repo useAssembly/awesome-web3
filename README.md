@@ -37,6 +37,7 @@ An awesome list that curates the best web3 projects.
     * [Crust Network](https://crust.network/) 
     * [Web3 Storage](https://web3.storage/)
     * [Dolpin.IO](https://dolpin.io/)
+    * [Decentralized structured data storage](https://polybase.xyz)
 
 * Blogs / News / Content
     * [NFT Calendar](nftcalendar.io) - News on latest NFT Release & Drops
